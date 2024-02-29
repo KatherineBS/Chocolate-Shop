@@ -1,4 +1,4 @@
-# Marketing Analytics Bootcamp Project - "The Chocolate Sghop"
+# Marketing Analytics Bootcamp Project - "The Chocolate Shop"
 
 This repository contains the code for the dummy website. The purpose was to get familiar with html diles deployment via Netfly and add GTM snippets and connect GTM to GA for data analysis purposes.
 
